@@ -1,3 +1,2 @@
 # hotel-management
-
-## Python
+Python
